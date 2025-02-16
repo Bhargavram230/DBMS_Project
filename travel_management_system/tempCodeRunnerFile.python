@@ -1,0 +1,1 @@
+print("Selected Destination:", destination)  # Add this for debugging
